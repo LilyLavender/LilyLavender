@@ -1,6 +1,6 @@
 Hi! I'm LilyLambda 
 
-I'm a smash modder and somewhat of a beginner programmer. 
+I'm a smash modder and somewhat of a beginner programmer. <br>
 Most of my smash mod source code is here, if there's source code you'd like added, feel free to ask and I'll add it
 
 If you ever need to reach me, I'll respond quickest on discord, @LilyLambda
