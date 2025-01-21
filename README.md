@@ -8,5 +8,5 @@
 >### Links:
 🎥 [YouTube](https://www.youtube.com/@LilyLambda) [ Mods, gaming, video essays ]  
 🍌 [GameBanana](https://gamebanana.com/members/2056543) [ Mod uploads ]  
-💿 [Discogs](https://www.discogs.com/user/lilylambda) [ Music collection ]
+💿 [Discogs](https://www.discogs.com/user/lilylambda) [ Music collection ]  
 📄 [Genius](https://genius.com/LilyLambda) [ Lyric transcriptions ]  
