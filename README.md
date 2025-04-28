@@ -1,4 +1,4 @@
-# Hi! I'm LilyLambda 
+# Hi! I'm Lily
 
 - I'm a smash modder and currently in my second year of a Web & Software Development program.
 - You'll mostly find smash modding source code here, but there's a few other projects as well
